@@ -1,1 +1,1 @@
-This is a Docker and k8s deployment vessel
+using docker and k8s for deployment
